@@ -1,0 +1,39 @@
+{
+  "tables": [
+    {
+      "id": "1",
+      "status": "Busy",
+      "peopleAmount": "1",
+      "maxPeople": "2",
+      "bill": "2"
+    },
+    {
+      "id": "2",
+      "status": "Free",
+      "peopleAmount": "5",
+      "maxPeople": "5",
+      "bill": "0"
+    },
+    {
+      "id": "3",
+      "status": "Busy",
+      "peopleAmount": "1",
+      "maxPeople": "2",
+      "bill": "125"
+    },
+    {
+      "id": "4",
+      "status": "Busy",
+      "peopleAmount": "8",
+      "maxPeople": "9",
+      "bill": "23"
+    },
+    {
+      "id": "5",
+      "status": "Reserved",
+      "peopleAmount": "3",
+      "maxPeople": "4",
+      "bill": "0"
+    }
+  ]
+}
